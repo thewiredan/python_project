@@ -8,13 +8,13 @@ After reviewing Louisville Metro open data portal, I became curious about which 
 
 The following utilities/libraries are required, which are all standard in an Anaconda install.
 
--Jupyter Notebooks
--CSV
--Sqlite3
--Pandas
--Numpy
--Seaborn
--Matplotlib
+  -Jupyter Notebooks
+  -CSV
+  -Sqlite3
+  -Pandas
+  -Numpy
+  -Seaborn
+  -Matplotlib
 
 ## Overview
 
