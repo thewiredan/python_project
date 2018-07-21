@@ -20,6 +20,12 @@ The following utilities/libraries are required, which are all standard in an Ana
 
 Data was obtained in CSV format via the Louisville Metro data portal (https://data.louisvilleky.gov/). The data read into an sqlite3 database and was scrubbed. The district and 2012 - 2017 issuances were loaded into a dataframe and a 2012 - 2016 average per district was calculated, along with the percentage increase in 2017 issuances over the average. 
 
+The following is a map of the 26 Louisville Metro districts:
+
+![districtmap](./[districtmap.png)
+
+An interactive district map can be found at the following link: https://louisvilleky.gov/government/metro-council/district-maps.
+
 The data was then visualized in three distinct ways. First a heatmap was created issuance by district for 2012 through 2017, this allowed for a visual analysis of general trends in the data, which were harder to determine in table form alone. For instance, 2017 issuances were significantly higher than prior years across the majority of districts, and issuances in District 4 were among the higher in each year.  
 
 ![heatmap](./heatmap.png)
@@ -36,3 +42,4 @@ The following chart shows the top and bottom 5 districts by 2017 percentage incr
 ![takeaway chart](./takeaway.png)
 
 District 1 had the highest increase in issuances, up nearly 1,200% in 2017 over the 2012 - 2016 average, while District 20 had a 50% decrease.
+
