@@ -36,7 +36,7 @@ The second visualization was a barchart comparing 2017 issuances to the 2012 - 2
 
 Finally, the top and bottom 5 districts by 2017 percentage increase vs 2012 - 2016 average were presented. This is the high level presentation of the date which would be suitable to convey the quick takeaways from this data analysis. 
 
-![takeaway chart](./takeaway.PNG)
+![comparison](./comparison.PNG)
 
 ## Conclusion
 As shown in the heatmap, 2017 issuances increased significantly over prior years. As shown in the comparison of 2017 to the average, District 4 had the highest total increase in issuances, while District 16 had the highest total decrease in issuances vs the average. Finally, the top and bottom 5 chart reveals that District 1 had the highest increase in issuances, up nearly 1,200% in 2017 over the 2012 - 2016 average, while District 20 had the largest decrease at 50%.
