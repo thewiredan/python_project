@@ -22,7 +22,7 @@ Data was obtained in CSV format via the Louisville Metro data portal (https://da
 
 The following is a map of the 26 Louisville Metro districts:
 
-![districtmap](./[districtmap.PNG)
+![districtmap](./districtmap.PNG)
 
 An interactive district map can be found at the following link: https://louisvilleky.gov/government/metro-council/district-maps.
 
