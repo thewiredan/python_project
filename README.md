@@ -36,7 +36,7 @@ The second visualization was a barchart comparing 2017 issuances to the 2012 - 2
 
 Finally, the top and bottom 5 districts by 2017 percentage increase vs 2012 - 2016 average were presented. This is the high level presentation of the date which would be suitable to convey the quick takeaways from this data analysis. 
 
-![take away](./takeaway.PNG)
+![take away](./takeaway.png)
 
 The full analysis process can be seen in the python_for_data_project.ipynb file, which also includes the visualizations if the links are not working correctly.
 
